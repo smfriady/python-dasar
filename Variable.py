@@ -1,4 +1,4 @@
-# (a) Variable adalah tempat menyimpan data
+# (a) Variabel adalah tempat menyimpan data
 # (=) Assigment menyimpan dimemory
 # (10) Value atau Nilai
 

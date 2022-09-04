@@ -1,5 +1,5 @@
 # (a) Variabel adalah tempat menyimpan data
-# (=) Assigment menyimpan dimemory
+# (=) Assignment menyimpan dimemory
 # (10) Value atau Nilai
 
 a = 10
